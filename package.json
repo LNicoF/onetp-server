@@ -1,0 +1,23 @@
+{
+  "name": "quirofanos-server",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "yarn install && nodemon -w ./src -x \"node --env-file=.env src/index.js\"",
+    "devDragonZypher": "node --env-file=.env src/index.js",
+    "start": "node src/index.js",
+    "nversion": "node --version"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2",
+    "latest": "^0.2.0",
+    "mysql2": "^3.6.1",
+    "node": "^14.17.0",
+    "wait-port": "^1.1.0"
+  },
+  "devDependencies": {}
+}
