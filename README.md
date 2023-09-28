@@ -1,4 +1,4 @@
-Integrantes: Nicolás Yomha, Gonzalo Palavecino, Tomás Alfonsín y Nicolás Luna 
+Integrantes: Laureano Yomha, Gonzalo Palavecino, Tomás Alfonsín y Nicolás Luna 
 
 Escuela: Escuela técnica Nro 2 "Educación y Trabajo"
 
